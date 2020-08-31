@@ -1,32 +1,20 @@
-## Portfolio
+## PORTFOLIO
 
 ---
 
-### The Arcane Relics
-[<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png"/>](/The_Arcane_Relics)
+### Game Projects
+
+[<img src="images/Game_Dev_Banner.png"/>](/Game_Projects)
 
 ---
 
-### Chipmonk!
-[<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png"/>](/Chipmonk)
+### Acrylic Paintings
+[<img src="images/Acrylic_Paintings.jpg"/>](/Acrylic_Paintings)
 
 ---
 
-### Bümbardia
-<img src="https://www.indiedb.com/games/bumbardia/images/promo"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
