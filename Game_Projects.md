@@ -1,4 +1,4 @@
-## **Game Projects**
+## *_Game Projects_*
 
 ### The Arcane Relics
 [<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png"/>](/The_Arcane_Relics)
@@ -12,8 +12,6 @@
 
 ### Bümbardia
 <img src="https://media.indiedb.com/cache/images/games/1/33/32117/thumb_620x2000/JN_BumbardiaPromo_Lo.png"/>
-
-
 
 ---
 
