@@ -1,4 +1,4 @@
-## ACRYLIC PAINTINGS
+## **Acrylic Paintings**
 
 
 

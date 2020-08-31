@@ -1,4 +1,4 @@
-## GAME PROJECTS
+## **Game Projects**
 
 ### The Arcane Relics
 [<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png"/>](/The_Arcane_Relics)
