@@ -3,12 +3,11 @@
 ---
 
 ### The Arcane Relics
-<img src="images/dummy_thumbnail.jpg?raw=true"/>(/The_Arcane_Relics)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](/The_Arcane_Relics)
 
 ---
 
 ### Chipmonk!
-[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
