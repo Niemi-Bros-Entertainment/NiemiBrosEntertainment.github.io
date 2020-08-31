@@ -3,12 +3,12 @@
 ---
 
 ### The Arcane Relics
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](/The_Arcane_Relics)
+[<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png"/>](/The_Arcane_Relics)
 
 ---
 
 ### Chipmonk!
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png"/>
 
 ---
 
