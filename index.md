@@ -8,7 +8,7 @@
 ---
 
 ### Chipmonk!
-<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png"/>
+[<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png"/>](/Chipmonk)
 
 ---
 
