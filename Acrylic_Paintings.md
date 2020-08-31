@@ -1,3 +1,4 @@
+[Home](/) --> Acrylic Paintings
 ## _**Acrylic Paintings**_
 ---
 
