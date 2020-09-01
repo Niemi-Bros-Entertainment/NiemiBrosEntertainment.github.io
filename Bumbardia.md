@@ -7,7 +7,7 @@
 Featuring wacky characters and an arsenal of weapons, Bümbardia™ allows for varying styles of play. Aid your friendlies strategically through coordinated precision or just blast in like a bull in a china shop destroying everything in your path.
 
 ---
-**MAIN FEATURES:**
+### **MAIN FEATURES:**
 
 ---
 - Sweet physics! Watch soldiers ragdoll across the map as you blow them away!
@@ -18,7 +18,7 @@ Featuring wacky characters and an arsenal of weapons, Bümbardia™ allows for v
 - Extensive records, keep track of all your targets eliminated and load out usages!
 
 ---
-**ROLES:**
+### **ROLES:**
 
 ---
 - 3D modeling

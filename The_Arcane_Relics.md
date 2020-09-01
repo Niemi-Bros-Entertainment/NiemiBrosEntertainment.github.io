@@ -20,7 +20,7 @@ You can follow our development blog here:
 [https://thearcanerelics.wordpress.com](https://thearcanerelics.wordpress.com)
 
 ---
-**FEATURES SO FAR:**
+### **FEATURES SO FAR:**
 
 ---
 - Local/Couch Co-op (_with up to 4 local players_)
@@ -34,7 +34,7 @@ You can follow our development blog here:
 - In development, plenty of _bugs_/features to come!
 
 ---
-**ROLES:**
+### **ROLES:**
 
 ---
 - 3D modeling

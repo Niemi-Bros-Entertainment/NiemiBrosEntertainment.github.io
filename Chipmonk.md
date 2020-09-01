@@ -20,7 +20,7 @@ Or, on _itch.io_:
 
 
 ---
-**ROLES:**
+### **ROLES:**
 
 ---
 - Level Design (_level layouts - battles, locations, pacing, appearance nearby, & etc._)
