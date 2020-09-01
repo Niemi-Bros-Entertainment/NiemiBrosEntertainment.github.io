@@ -6,15 +6,16 @@
 
 Featuring wacky characters and an arsenal of weapons, Bümbardia™ allows for varying styles of play. Aid your friendlies strategically through coordinated precision or just blast in like a bull in a china shop destroying everything in your path.
 
+---
 **MAIN FEATURES:**
 
 ---
-Sweet physics! Watch soldiers ragdoll across the map as you blow them away!
-Destroy just about everything!
-Traverse randomly generated maps, creating a seemingly endless experience!
-Wide variety of weapons at your disposal including mini-nukes, missiles, & even laughing gas!
-Ride in a monster truck & tank, crushing all that stands in your way!
-Extensive records, keep track of all your targets eliminated and load out usages!
+- Sweet physics! Watch soldiers ragdoll across the map as you blow them away!
+- Destroy just about everything!
+- Traverse randomly generated maps, creating a seemingly endless experience!
+- Wide variety of weapons at your disposal including mini-nukes, missiles, & even laughing gas!
+- Ride in a monster truck & tank, crushing all that stands in your way!
+- Extensive records, keep track of all your targets eliminated and load out usages!
 
 ---
 **ROLES:**
