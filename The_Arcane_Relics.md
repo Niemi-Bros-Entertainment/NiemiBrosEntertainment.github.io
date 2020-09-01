@@ -9,6 +9,7 @@ The game features strategic combat where hits can be placed on specific limbs, c
 The end goal of this project is to make a dynamic fantasy sandbox with hand-crafted environments and an emphasis on cooperative multiplayer.
 
 The Arcane Relics™ was Greenlit [(_Steam Greenlight Page_)](https://steamcommunity.com/sharedfiles/filedetails/?id=504642943) on Steam back in 2016, and we've since released 3 demo versions to the public. Platforms include: PC and Mac. Currently, we are working towards the next version (v0.3).
+
 ---
 You can download the latest version of TAR (v0.2) on itch.io:
 
@@ -20,6 +21,7 @@ You can follow our development blog here:
 
 ---
 **FEATURES SO FAR:**
+
 ---
 - Local/Couch Co-op (with up to 4 local players)
 - Strategic combat: directional attacks (chop, thrust, overhead, & backhand), landing attacks on specific limbs and crippling them. 
@@ -30,12 +32,15 @@ You can follow our development blog here:
 - Ridable mounts: horses and people! Ride into battle on your friend's shoulders!
 - Interactivity: Pickup and throw crates & barrels, sit in chairs, lay in bed, climb trees, place or take torches from wall mounts, & more!
 - In development, plenty of bugs features to come!
+
 ---
 **ROLES:**
+
 ---
 - 3D modeling
 - Animation
 - Texturing (PBS/Physically-Based Shading, creating maps - albedo/specular/normal/emissive - as needed for various materials in game)
 - Environment Design/Creation
 - Custom Shaders (programming custom shaders in Unity, CG)
+
 ---
