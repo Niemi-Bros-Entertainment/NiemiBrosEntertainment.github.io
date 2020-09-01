@@ -2,13 +2,13 @@
 
 ---
 
-### Game Projects
+### [Game Projects](/Game_Projects)
 
 [<img src="images/Game_Dev_Banner.png"/>](/Game_Projects)
 
 ---
 
-### Acrylic Paintings
+### [Acrylic Paintings](/Acrylic_Paintings)
 [<img src="images/Acrylic_Paintings.jpg"/>](/Acrylic_Paintings)
 
 ---

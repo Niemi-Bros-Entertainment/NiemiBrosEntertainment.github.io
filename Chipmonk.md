@@ -7,15 +7,22 @@
 Chipmonk! features local multiplayer for up to 2 players, 3-playable characters, a variety of moves, an assortment of villains, and a retro pixel aesthetic. Battle your way through the 4 seasons on your way to the gluttonous gray squirrel’s lair. 
 
 --- 
-Chipmonk! is available for purchase on Steam: 
+Chipmonk! is available for purchase on _Steam_: 
  
 [https://store.steampowered.com/app/1019730/Chipmonk/](https://store.steampowered.com/app/1019730/Chipmonk/)
  
-Or, on itch.io:
+Or, on _itch.io_:
  
 [https://niemi-bros.itch.io/chipmonk](https://niemi-bros.itch.io/chipmonk)
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UmZhJypuPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+**ROLES:**
+
+---
+- Level Design (_level layouts - battles, locations, pacing, appearance nearby, & etc._)
+- Sprite Creation (_mostly environment appearance/props, some characters & animations_)
 
 ---
