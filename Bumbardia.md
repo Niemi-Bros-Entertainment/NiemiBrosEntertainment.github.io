@@ -23,7 +23,7 @@ Featuring wacky characters and an arsenal of weapons, Bümbardia™ allows for v
 ---
 - 3D modeling
 - Animation
-- Level/Chunk Designer (how pieces: are laid out, fit together, & transition, along with prop placement - including ones used for troops' cover)
+- Level/Chunk Designer (_how pieces: are laid out, fit together, & transition, along with prop placement - including ones used for troops' cover_)
 - Missions Designer
 
 ---
