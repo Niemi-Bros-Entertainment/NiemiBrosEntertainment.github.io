@@ -1,8 +1,8 @@
-## Home
+# Home
 
 ---
 
-### _**Our Games**_
+## _**Our Games**_
 
 ---
 
