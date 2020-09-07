@@ -2,7 +2,7 @@
 
 ---
 
-### _*Our Games*_
+### *_Our Games_*
 
 ---
 
