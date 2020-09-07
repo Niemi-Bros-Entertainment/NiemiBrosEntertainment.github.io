@@ -12,7 +12,7 @@ _Fantasy-medieval RPG, featuring split-screen/local-coop._
 
 ---
 
-[<h3> <p align="right"> Chipmonk! </p> </h3>](/Chipmonk)
+<h3> <p align="right"> Chipmonk! </p> </h3>(/Chipmonk)
 <i> <p align="right"> Beat 'em up starring chipmunk warriors. </p> </i>
 [<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png"/>](/Chipmonk)
 
