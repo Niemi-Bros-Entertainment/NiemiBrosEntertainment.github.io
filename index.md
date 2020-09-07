@@ -1,4 +1,8 @@
-## _**Our Games**_
+# Home
+
+---
+
+## _**OUR GAMES**_
 
 ---
 

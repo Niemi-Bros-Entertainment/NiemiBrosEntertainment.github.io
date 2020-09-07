@@ -1,5 +1,8 @@
-[Home](/) --> [Game Projects](/Game_Projects) --> The Arcane Relics
 ## _**The Arcane Relics**_
+---
+
+[Home](/) --> The Arcane Relics
+
 ---
 <img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png"/>
 **Project description:** In The Arcane Relics™, you are cast into the land of Terradim – a land full of wonder, mystery, & great danger. Assume the role of any type of character you wish in this wacky fantasy-medieval sandbox experience, featuring 4-player split-screen mayhem!
@@ -34,13 +37,4 @@ You can follow our development blog here:
 - In development, plenty of _bugs_/features to come!
 
 ---
-### **ROLES:**
-
----
-- 3D modeling
-- Animation
-- Texturing (_PBS/Physically-Based Shading, creating maps - albedo/specular/normal/emissive - as needed for various materials in game_)
-- Environment Design/Creation
-- Custom Shaders (_programming custom shaders in Unity, CG_)
-
----
+©Niemi Bros Entertainment LLC
