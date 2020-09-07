@@ -1,10 +1,9 @@
 title: Niemi Bros Entertainment # your name (or website title) here
 logo: "/images/logo.png" # logo/image of site
+project_tagline: <i>We play game. We like game. We make game.</i>
 description: > # your text below (remove <br> elements if you don't need line breaks) 
-  <i>We play game. We like game. We make game.</i> 
-  <br><br>
-  We are a team of 2 brothers who just happen to make games. Our focus is to create games inspired by ones we have enjoyed playing since our childhood. 
-  <br><br>
+  <strong> We are a team of 2 brothers who just happen to make games. Our focus is to create games inspired by ones we have enjoyed playing since our childhood. </strong>
+<hr/>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
