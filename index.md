@@ -1,8 +1,8 @@
-# Home
+<p align="center"> # Home </p>
 
 ---
 
-## _**OUR GAMES**_
+<p align="center"> ## _**OUR GAMES**_ </p>
 
 ---
 
