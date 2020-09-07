@@ -2,7 +2,7 @@
 
 ---
 
-<h2> <b><i> <p align="center"> OUR GAMES </p> </i></b> </h2> 
+<h2> <b><i> OUR GAMES </i></b> </h2> 
 
 ---
 
