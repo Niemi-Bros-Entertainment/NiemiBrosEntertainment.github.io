@@ -1,4 +1,4 @@
-## _** <u>The Arcane Relics </u> **_
+## _ <b><u>The Arcane Relics </u></b> _
 ---
 
 [Home](/) --> The Arcane Relics
