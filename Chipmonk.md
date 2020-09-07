@@ -23,4 +23,3 @@ Or, on _itch.io_:
 
 
 ---
-©Niemi Bros Entertainment LLC

@@ -37,4 +37,3 @@ You can follow our development blog here:
 - In development, plenty of _bugs_/features to come!
 
 ---
-©Niemi Bros Entertainment LLC
