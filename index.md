@@ -1,4 +1,4 @@
-<h3> <p align="center"> Home </p> </h3> 
+### Home 
 
 ---
 
