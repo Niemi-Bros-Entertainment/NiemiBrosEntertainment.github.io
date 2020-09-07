@@ -1,4 +1,5 @@
-### Home <hr>
+### Home 
+---
 
 <h2> <b><i> <p align="center"> OUR GAMES </p> </i></b> </h2> 
 
