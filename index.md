@@ -1,8 +1,8 @@
-<p align="center"> # Home </p>
+<p align="center"> <h1> Home </h1> </p>
 
 ---
 
-<p align="center"> ## _**OUR GAMES**_ </p>
+<p align="center"> <h2> <b><i>OUR GAMES</i></b> </h2> </p>
 
 ---
 
