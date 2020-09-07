@@ -34,6 +34,6 @@ You can follow our development blog here:
 - Abilities/magic: telekinesis, force push, fireball, enchant weapons, and more!
 - Ridable mounts: horses and people! Ride into battle on your friend's shoulders!
 - Interactivity: Pickup and throw crates & barrels, sit in chairs, lay in bed, climb trees, place or take torches from wall mounts, & more!
-- In development, plenty of _bugs_/features to come!
+- In development, plenty of -bugs- features to come!
 
 ---
