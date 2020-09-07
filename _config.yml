@@ -1,12 +1,11 @@
 title: Niemi Bros Entertainment # your name (or website title) here
 logo: "/images/logo.png" # logo/image of site
-description: >  We play game. We like game. We make game. <br><br>
+description: > # your text below (remove <br> elements if you don't need line breaks) 
+  We play game. We like game. We make game. 
+  <br><br>
   We are a team of 2 brothers who just happen to make games. Our focus is to create games inspired by ones we have enjoyed playing since our childhood. 
   <br><br>
-  We are currently working on a medieval-fantasy RPG with local multi-player titled, The Arcane Relics™ (TAR), along with smaller side projects.
-  <br><br>
-  TAR is something we’ve been experimenting with since 2009 and developing since late 2014.
-  <br><br>
+  [MORE](/) >
   
   
 theme: jekyll-theme-minimal
