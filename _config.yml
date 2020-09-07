@@ -1,7 +1,6 @@
 title: Niemi Bros Entertainment # your name (or website title) here
 logo: "/images/logo.png" # logo/image of site
-description: > # your text below (remove <br> elements if you don't need line breaks) 
-  We play game. We like game. We make game. 
+description: > We play game. We like game. We make game. # your text below (remove <br> elements if you don't need line breaks)  
   <br><br>
   We are a team of 2 brothers who just happen to make games. Our focus is to create games inspired by ones we have enjoyed playing since our childhood. 
   <br><br>
